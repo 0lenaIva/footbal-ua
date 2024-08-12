@@ -56,13 +56,14 @@ main h2{
 }
 .people div{
 	width:100%;
-position:relative;
-border-radius:19px;
+	position:relative;
+	border-radius:19px;
 	height:256px;
 	overflow:hidden;
 }
 .people img{
 	width:100%;
+	
 transition:1s;
 }
 .people p{
